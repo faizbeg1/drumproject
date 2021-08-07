@@ -1,0 +1,81 @@
+body{
+    
+    text-align: center;
+    background-color:slategray;
+}
+#title{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-top: 50px;
+    margin-right: 100px;
+    margin-left: 50px;
+    margin-bottom: 50px;
+    color: yellowgreen;
+    font-size: 4rem;
+    text-shadow: silver;
+}
+h1 {
+    font-size: 5rem;
+    color: #DBEDF3;
+    font-family: "Arvo", cursive;
+    text-shadow: 3px 0 #DA0463;
+  
+  }
+
+
+
+.last{
+    text-decoration-color: coral;
+    margin-top: 50px;
+    outline-color: teal;
+    text-decoration-color: teal;
+    color: rebeccapurple;
+    font-family: monospace;
+    font-size: 0.7rem;
+    
+}
+.w {
+    
+    background-image: url("images/crash.png");
+    margin-right: 10px;
+}
+.s{
+
+    background-image: url("images/kick.png");
+    margin-right: 10px;
+}
+.j{
+
+    background-image: url("images/snare.png")
+    
+}
+.k{
+
+    margin-right: 10px;
+    background-image: url("images/tom1.png");
+}
+.l{
+    margin-right: 10px;
+    background-image: url("images/tom2.png");
+}
+
+
+
+
+.drum {
+    outline: none;
+    border: 10px solid #404B69;
+    font-size: 5rem;
+    font-family: 'Arvo', cursive;
+    line-height: 2;
+    font-weight: 900;
+    color: #DA0463;
+    text-shadow: 3px 0 #DBEDF3;
+    border-radius: 15px;
+    display: inline-block;
+    width: 150px;
+    height: 150px;
+    text-align: center;
+    margin: 10px;
+    background-color: white;
+  }
+  
